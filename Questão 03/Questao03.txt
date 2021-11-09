@@ -1,0 +1,2 @@
+Como i ocupa a memória 4094, o primeiro argumento da impressão mostrará justamente esse endereço. Assim, a impressão mostrará:
+4094, 7, 5, 15, 9.
