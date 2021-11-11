@@ -1,0 +1,7 @@
+    Questão 04 -
+    
+    b) Expressão ilegal – Conteúdo do Ponteiro int = endereço de j;
+    c) Ilegal. 
+	d) Expressão ilegal.
+	f) Ilegal.
+	g) Ilegal.
