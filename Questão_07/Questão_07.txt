@@ -1,0 +1,1 @@
+Q7 – A expressão *(pulo + 2) informará o conteúdo do 3 elemento do vetor.
