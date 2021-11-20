@@ -1,0 +1,1 @@
+os ponteiros são ferramentas importate para facilitar o trabalho da maquina,
