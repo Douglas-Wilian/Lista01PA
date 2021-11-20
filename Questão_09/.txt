@@ -1,0 +1,1 @@
+Na primeira parte o laço de repetição vai mostrar os valores declarados do vetor no programa.A segunda parte do programa está imprimindo o endereço de memória de cada vetor.

@@ -1,0 +1,1 @@
+O uso de ponteiro para uma função é uma forma mais prática de está chamando essa função durante o programa sem  está forçando o computador. Usando esse recurso ele guarda o endereço de memória.Logo abaixo foi declarada uma função para ponteiro do tipo [void], essa função tem o objetivo de somar o um da variável inicial com um.
