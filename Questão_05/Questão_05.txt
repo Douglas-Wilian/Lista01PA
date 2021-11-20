@@ -1,0 +1,27 @@
+Q5 – (a) O programa printará o valor 20, o que era esperado já que o conteúdo do ponteiro P1 foi alterado para ele.
+
+     (b) O valor mostrado será 29.0, como esperado. Da mesma forma que o caso acima.
+
+     (c) A expressão c printará a letra “P”, que se encontra no primeiro termo da string “nome”. Mostrando o que se era esperado.
+
+     (d) Será mostrado o caractere “e” que ocupa o a posição 4 da string.
+
+     (e) O caractere que aparecerá será “P”.
+
+     (f) Será mostrado o mesmo resultado do item d, apenas a representação do código se deu de maneira distinta.
+
+     (g) Com o decremento em uma unidade, o resultado mostrado será “t”.
+
+     (h) Será mostrado na tela o valor 31, a primeira posição do vetor.
+
+     (i) O valor 45 aparecerá na tela, já que p5 é o incremento de 1 unidade em relação a p4.
+
+     (j) O valor 27 será mostrado.
+
+     (l) Novamente será mostrado o valor 31.
+
+     (m)  A expressão printará o valor 45.
+
+     (n) Novamente será printado 45, já que não ocorreu modificação no ponteiro.
+
+ Dessa forma, todos os resultados obtidos nos testes bateram com os esperados na análise.
