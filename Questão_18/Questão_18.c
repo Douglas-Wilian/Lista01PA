@@ -95,6 +95,11 @@ for(int i=0; i<nla; i++){
   }
   printf("\n");
 }
-
+free(A[0]);
+free(A);
+free(B[0]);
+free(B);
+free(C[0]);
+free(C);
 return 0;
 }
