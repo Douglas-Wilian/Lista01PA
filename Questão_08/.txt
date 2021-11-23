@@ -1,0 +1,1 @@
+As quatros primeiras alternativas estão certas, quando compilado vai aparecer os valores esperados.
