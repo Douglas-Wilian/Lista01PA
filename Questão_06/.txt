@@ -1,0 +1,6 @@
+Foram obtidos os resultados esperados:
+ .no primeiro caso imprimi o contador
+ .no segundo caso imrpimi o valor do vetor
+ .no terceiro caso imprimi os termos do vetor
+ .no quarto caso imprimi os endereços
+ .no quinto caso imprimi mostra os endereços também
